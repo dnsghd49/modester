@@ -36,7 +36,7 @@ BE Team: Maxwell Yu, Lohelani Hicks
 
 # Link to Deployed Application:
 
-https://kaitlinkenney.github.io/SmartTrvlApp/
+https://dnsghd49.github.io/modester/
 
 # Screenshot
 
